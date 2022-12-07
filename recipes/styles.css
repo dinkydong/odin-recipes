@@ -1,0 +1,34 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+p {
+    break-after: always;
+}
+
+.normal-header {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.fun {
+    color: purple;
+}
+
+img {
+    break-after: always;
+    height: auto;
+    width: 200;
+}
+
+ul,
+ol {
+    columns: 2;
+}
+
+.fun-l {
+    text-align: start;
+    list-style-position: inside;
+    columns: 1;
+}
